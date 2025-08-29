@@ -1,0 +1,16 @@
+// Lista de ingredientes do bolo (array)
+const ingredientes = [
+    "3 ovos",
+    "2 xícaras de açucar",
+    "1/2 xícara de óleo",
+    "1 colher de sopa de fermento em pó"
+];
+
+// Título
+console.log("📌 Receita de Bolo Simples");
+console.log("Ingredientes");
+
+// Exibindo cada ingrediente da lista
+ingredientes.forEach((item, index)) => {
+    console.log()
+}

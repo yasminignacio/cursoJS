@@ -12,5 +12,6 @@ console.log("Ingredientes");
 
 // Exibindo cada ingrediente da lista
 ingredientes.forEach((item, index)) => {
-    console.log()
-}
+    console.log('${index + 1} - ${iten}');
+});
+
